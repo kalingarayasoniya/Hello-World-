@@ -3,7 +3,7 @@ package pack;
 public class Bank
 {
     int a =22;
-    long phone =90908886666666l;
+    long phone =90908886666666L;
     double balance=23232.99;
     public void transferAmount(double amount)
     {
